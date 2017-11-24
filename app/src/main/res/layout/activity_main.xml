@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.user.android_assignment_3_1.MainActivity">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="87sp"
+        android:textSize="30dp"
+        android:background="#ed0404"
+        android:gravity="center"
+        android:text="Red" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="match_parent"
+        android:layout_height="87sp"
+        android:textSize="30dp"
+        android:background="#f19e05"
+        android:gravity="center"
+        android:text="Orange" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="87sp"
+        android:textSize="30dp"
+        android:background="#f4e808"
+        android:gravity="center"
+        android:text="Yellow" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="match_parent"
+        android:layout_height="87sp"
+        android:textSize="30dp"
+        android:background="#25fc08"
+        android:gravity="center"
+        android:text="Green" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="match_parent"
+        android:layout_height="87sp"
+        android:textSize="30dp"
+        android:background="#0c2eed"
+        android:gravity="center"
+        android:text="Blue" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="87sp"
+        android:textSize="30dp"
+        android:background="#2A0358"
+        android:gravity="center"
+        android:text="Indigo" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="match_parent"
+        android:layout_height="87sp"
+        android:textSize="30dp"
+        android:background="#891089"
+        android:gravity="center"
+        android:text="Violet" />
+</LinearLayout>
+
